@@ -1,0 +1,7 @@
+node.content:
+  path: "/node_assist"
+  defaults:
+    _form: '\Drupal\node_assist\Form\NodeAssistForm'
+    _title: "Node Assist"
+  requirements:
+    _permission: "access content"

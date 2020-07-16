@@ -1,0 +1,1 @@
+This modules will create a form with following 4 fields : Number of Nodes (Integer), Content Type (Dropdown of all content type in website), Title and Body. As soon as form is submitted, it will create the requested number of nodes in the system. If user enters number greater than 5, it will show an error on screen.
